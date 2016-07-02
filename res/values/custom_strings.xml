@@ -49,4 +49,8 @@
     <string name="hardware_keys_action_screenshot">Screenshot</string>
     <string name="hardware_keys_action_partial_screenshot">Partial screenshot</string>
     <string name="hardware_keys_action_pip">PiP</string>
+
+    <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">Google Play</string>
+
 </resources>
